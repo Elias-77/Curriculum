@@ -1,2 +1,3 @@
 # Curriculum
-Quien soy
+
+Proyecto de estudio Java
